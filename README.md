@@ -27,4 +27,4 @@ Harsh Gidwani
 
 ---
 
-**Feel free to fork, contribute, or raise issues!**
+Feel free to fork, contribute, or raise issues!
