@@ -53,8 +53,8 @@ if st.button("Get Detailed Notes"):
         
 st.markdown("---")
 st.write(
-    "Made By Himanshu Singh [#Linkedin](https://www.linkedin.com/in/himanshu-singh01/) !"
+    "Made By Harsh Gidwani [#Linkedin](https://www.linkedin.com/in/harsh-gidwani-497a63243/) !"
 )
 st.markdown(
-    "More infos and :star: at [github.com/himanshugitcode/Youtube-Video-Summarizer](https://github.com/HimanshuGitCode/Youtube-Video-Summarizer)  !"
+    "More infos and :star: at [Youtube-Video-Summarizer](https://github.com/harsh-codess/summarizer/tree/main/harshgidwani-summarizer)  !"
 )
