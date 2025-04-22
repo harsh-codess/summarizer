@@ -23,7 +23,7 @@ This project is a Resume Parser that leverages Natural Language Processing (NLP)
 
 ### Author:
 Harsh Gidwani  
-[LinkedIn](https://linkedin.com/in/harshgidwani) | [Email](mailto:harshigidwani2007@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/harsh-gidwani-497a63243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](mailto:harshigidwani2007@gmail.com)
 
 ---
 
