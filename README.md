@@ -7,7 +7,7 @@ This project is a Resume Parser that leverages Natural Language Processing (NLP)
 - PDF/DOCX file reading and parsing
 - Custom-trained models for domain-specific entities
 - Skillset and keyword extraction
-- JSON output for easy integration with HR or ATS system
+- JSON output for easy integration with HR or ATS systems
 
 ### Tech Stack:
 - Python
