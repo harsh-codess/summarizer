@@ -1,4 +1,4 @@
-## Resume Parser using NLP and Machine Learning
+## Resume Parser using NLP and Machine LearningG
 
 This project is a Resume Parser that leverages Natural Language Processing (NLP) and Machine Learning techniques to automatically extract structured data from resumes. It identifies and organizes key information such as name, contact details, education, skills, experience, and more.
 
